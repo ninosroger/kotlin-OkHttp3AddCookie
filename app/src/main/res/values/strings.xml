@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">kotlin-OkHttp3AddCookie</string>
+    <string name="message">具体实现在LoginDemoActivity中</string>
+</resources>
